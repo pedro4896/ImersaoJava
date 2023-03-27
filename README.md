@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=header"/>
-<h1 align=center>Imersão Java - Alura <span><img height=60 title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></span></h1> 
+<h1 align=center>Imersão Java - Alura <span><img height=60 title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></span></h1> 
 <br>
 <h3>DIA 1</h3>
 <div align=center>
@@ -10,6 +10,9 @@
 </p>
 
 <p> Além disso, o código converte a string que representa a classificação (imDbRating) em um valor float usando o método Float.parseFloat() e arredonda o valor resultante usando o método Math.round(). Depois, exibe o número de estrelas correspondente à classificação arredondada usando o símbolo unicode da estrela.</p>
-<span align=cente>
-![Saída do Terminal](https://user-images.githubusercontent.com/94026535/228090008-c53d062d-b042-49b9-830d-3fb30cb1a05e.png)
-</span>
+
+<br>
+<div align= center>
+   <img src="https://github.com/pedro4896/aluraStickers/blob/main/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=footer"/>
