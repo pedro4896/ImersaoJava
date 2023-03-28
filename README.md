@@ -15,4 +15,5 @@
 <div align= center>
    <img src="https://github.com/pedro4896/aluraStickers/blob/main/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
 </div>
+<h3>OBS: Para as estrelas renderizarem no terminal é preciso acionar o comando "chcp 65001" no terminal e posteriormente compilar o código!</h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=footer"/>
