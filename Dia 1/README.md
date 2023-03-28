@@ -1,0 +1,2 @@
+
+Nessa etapa, utilizamos a API do IMDB para requisitar o endpoint que retorna os 250 melhores filmes. Para isso, usamos a classe HttpClient e a interface HttpRequest do pacote java.net, que nos permitem estabelecer conexões cliente-servidor e enviar requisições HTTP.
