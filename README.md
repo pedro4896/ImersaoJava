@@ -13,7 +13,7 @@
 
 <br>
 <div align= center>
-   <img src="https://github.com/pedro4896/aluraStickers/blob/main/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
+   <img src="https://github.com/pedro4896/ImersaoJava/blob/main/Dia%201/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
 </div>
 <h3>OBS: Para as estrelas renderizarem no terminal é preciso acionar o comando "chcp 65001" no terminal e posteriormente compilar o código!</h3>
 
@@ -26,10 +26,9 @@
 
 <p>Por fim, a nova imagem é salva em um arquivo de saída em formato PNG.</p>
 
-<div>
-   <img src="https://github.com/pedro4896/aluraStickers/blob/main/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
-</div>
-<div>
-   <img src="https://github.com/pedro4896/aluraStickers/blob/main/resultado_dia1.png" widht="300px" alt="Saída do Terminal"/>
+<div align= center>
+   <img src="https://github.com/pedro4896/ImersaoJava/blob/main/Dia%202/figurinhas/The%20Dark%20Knight.png" height="400px" alt="Saída do Terminal"/>
+
+   <img src="https://github.com/pedro4896/ImersaoJava/blob/main/Dia%202/figurinhas/The%20Godfather.png" height="400px" alt="Saída do Terminal"/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A57B5&height=120&section=footer"/>
